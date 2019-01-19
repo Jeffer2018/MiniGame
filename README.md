@@ -1,6 +1,8 @@
 # MinIGame
 python小游戏
 
+github上收集调试过的python小游戏
+
 ***
 
 #### 1.2048
