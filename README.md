@@ -14,3 +14,6 @@ github上收集调试过的python小游戏
 
 #### 3.俄罗斯方块
    运行方式，pyCharm 右键run就好了
+   
+### 4.飞机大战
+   运行方式，mainGame.py 运行就可以了
