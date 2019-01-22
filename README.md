@@ -19,4 +19,4 @@ github上收集调试过的python小游戏
    运行方式，mainGame.py 运行就可以了
 
 ### 5.吃苹果
-   运行方式，运行ZombieMobGame.py
+   运行方式，运行ZombieMobGame.py 
