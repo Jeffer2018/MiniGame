@@ -20,3 +20,11 @@ github上收集调试过的python小游戏
 
 ### 5.吃苹果
    运行方式，运行ZombieMobGame.py 
+   
+### 6.外星人
+   运行方式,运行alien_invasion.py  [原链接](https://github.com/HuiProgramer/Alien-Game)
+    
+    
+    
+    
+    
