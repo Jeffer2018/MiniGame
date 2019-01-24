@@ -4,6 +4,7 @@ python小游戏
 github上收集调试过的python小游戏
 
 后面可以考虑，通过AI模型实现playing game
+
 ***
 
 #### 1.2048
